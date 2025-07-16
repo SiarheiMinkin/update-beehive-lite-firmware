@@ -2,6 +2,6 @@
   "name": "прошивка для весов",
   "about": "Краткое описание проекта",
   "version": "1.3",
-  "notes": "все работает",
+  "notes": "все работает хорошо",
   "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-lite-firmware/main/firmware.bin"
 }
