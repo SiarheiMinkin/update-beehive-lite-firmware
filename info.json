@@ -1,7 +1,7 @@
 {
   "name": "прошивка для весов",
   "about": "Краткое описание проекта",
-  "version": "1.5",
+  "version": "1.6",
   "notes": "исправлен баг отправки сообщений на хаб при нажатии сенсора",
   "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-lite-firmware/main/firmware.bin"
 }
