@@ -1,7 +1,7 @@
 {
   "name": "прошивка для весов",
   "about": "Краткое описание проекта",
-  "version": "1.10",
+  "version": "1.11",
   "notes": "синхронизация по получасам. отправка сообщений при резком изменении веса в течении часа",
   "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-lite-firmware/main/firmware.bin"
 }
