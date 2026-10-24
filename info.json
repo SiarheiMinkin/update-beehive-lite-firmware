@@ -1,7 +1,7 @@
 {
   "name": "прошивка для весов",
   "about": "Краткое описание проекта",
-  "version": "1.14",
-  "notes": "датчик Холла вместо тача",
+  "version": "1.15",
+  "notes": "датчик Холла вместо тача. Багфиксинг",
   "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-lite-firmware/main/firmware.bin"
 }
