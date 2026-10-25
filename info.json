@@ -1,7 +1,7 @@
 {
   "name": "прошивка для весов",
   "about": "Краткое описание проекта",
-  "version": "1.15",
-  "notes": "датчик Холла вместо тача. Багфиксинг",
-  "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-lite-firmware/main/firmware.bin"
+  "version": "1.16",
+  "notes": "Плановые замеры не сбиваются после пробуждения магнитом. Неготовый HX711 больше не даёт ложный замер. Защита от зависания при отправке на хаб. Обновления теперь из update-beehive-scale-firmware.",
+  "path": "https://raw.githubusercontent.com/SiarheiMinkin/update-beehive-scale-firmware/main/firmware.bin"
 }
